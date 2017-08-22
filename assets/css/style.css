@@ -1,0 +1,10 @@
+.item-image {
+    width: 218px;
+    cursor: pointer;
+}
+
+.alrt {
+    position: absolute !important;
+    left: 34% !important;
+    top: 2% !important;
+}
